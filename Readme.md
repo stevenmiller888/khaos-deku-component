@@ -3,7 +3,7 @@
 
 >  A template for quickly building Deku components
 
-![]()
+![Demo](https://cldup.com/6Ia1oC1yNu.png)
 
 ## Installation
 
